@@ -1,2 +1,2 @@
-# Kalkulator
-Website Kalkulator Habsil Belajar Online melalui DICODING
+# calculator
+I'm trying to make a calculator website
